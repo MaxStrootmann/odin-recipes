@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Goudy Bookletter 1911";
+  src: url(./public/goudy_bookletter_1911-webfont.woff);
+}
+
+* {
+  font-family: "Goudy Bookletter 1911";
+}
